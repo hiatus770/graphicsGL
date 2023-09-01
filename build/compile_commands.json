@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/hiatus/Documents/graphicsGL/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/GraphicsStuff.dir/main.cpp.o -c /home/hiatus/Documents/graphicsGL/main.cpp",
+  "file": "/home/hiatus/Documents/graphicsGL/main.cpp",
+  "output": "CMakeFiles/GraphicsStuff.dir/main.cpp.o"
+},
+{
+  "directory": "/home/hiatus/Documents/graphicsGL/build",
+  "command": "/usr/bin/clang -g -o CMakeFiles/GraphicsStuff.dir/glad.c.o -c /home/hiatus/Documents/graphicsGL/glad.c",
+  "file": "/home/hiatus/Documents/graphicsGL/glad.c",
+  "output": "CMakeFiles/GraphicsStuff.dir/glad.c.o"
+},
+{
+  "directory": "/home/hiatus/Documents/graphicsGL/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/GraphicsStuff.dir/shaderClass.cpp.o -c /home/hiatus/Documents/graphicsGL/shaderClass.cpp",
+  "file": "/home/hiatus/Documents/graphicsGL/shaderClass.cpp",
+  "output": "CMakeFiles/GraphicsStuff.dir/shaderClass.cpp.o"
+},
+{
+  "directory": "/home/hiatus/Documents/graphicsGL/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/GraphicsStuff.dir/VAO.cpp.o -c /home/hiatus/Documents/graphicsGL/VAO.cpp",
+  "file": "/home/hiatus/Documents/graphicsGL/VAO.cpp",
+  "output": "CMakeFiles/GraphicsStuff.dir/VAO.cpp.o"
+},
+{
+  "directory": "/home/hiatus/Documents/graphicsGL/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/GraphicsStuff.dir/VBO.cpp.o -c /home/hiatus/Documents/graphicsGL/VBO.cpp",
+  "file": "/home/hiatus/Documents/graphicsGL/VBO.cpp",
+  "output": "CMakeFiles/GraphicsStuff.dir/VBO.cpp.o"
+},
+{
+  "directory": "/home/hiatus/Documents/graphicsGL/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/GraphicsStuff.dir/EBO.cpp.o -c /home/hiatus/Documents/graphicsGL/EBO.cpp",
+  "file": "/home/hiatus/Documents/graphicsGL/EBO.cpp",
+  "output": "CMakeFiles/GraphicsStuff.dir/EBO.cpp.o"
+},
+{
+  "directory": "/home/hiatus/Documents/graphicsGL/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/GraphicsStuff.dir/Texture.cpp.o -c /home/hiatus/Documents/graphicsGL/Texture.cpp",
+  "file": "/home/hiatus/Documents/graphicsGL/Texture.cpp",
+  "output": "CMakeFiles/GraphicsStuff.dir/Texture.cpp.o"
+},
+{
+  "directory": "/home/hiatus/Documents/graphicsGL/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/GraphicsStuff.dir/Camera.cpp.o -c /home/hiatus/Documents/graphicsGL/Camera.cpp",
+  "file": "/home/hiatus/Documents/graphicsGL/Camera.cpp",
+  "output": "CMakeFiles/GraphicsStuff.dir/Camera.cpp.o"
+},
+{
+  "directory": "/home/hiatus/Documents/graphicsGL/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/GraphicsStuff.dir/stb/stb.cpp.o -c /home/hiatus/Documents/graphicsGL/stb/stb.cpp",
+  "file": "/home/hiatus/Documents/graphicsGL/stb/stb.cpp",
+  "output": "CMakeFiles/GraphicsStuff.dir/stb/stb.cpp.o"
+}
+]
